@@ -1,0 +1,25 @@
+{
+  "name": "jquery-expose",
+  "homepage": "https://github.com/Giganyte/jquery-expose",
+  "authors": [
+    "Giganyte Technologies <irman@giganyte.com>"
+  ],
+  "description": "Expose for jQuery",
+  "main": "js/jquery.expose.js",
+  "keywords": [
+    "jquery",
+    "expose",
+    "js"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "~2.1.4"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
